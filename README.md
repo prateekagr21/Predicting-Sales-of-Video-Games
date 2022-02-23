@@ -11,4 +11,6 @@ Using seaborn and matplotlib
 
 ![vg2](https://user-images.githubusercontent.com/73397927/154858451-324b57b6-9f9c-49c7-bc1b-91f2f1f3349e.jpg)
 
-and the data you don't
+and the reason you don't
+
+working on the regression plots now
