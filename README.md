@@ -14,3 +14,4 @@ Using seaborn and matplotlib
 and the reason you don't
 
 working on the regression plots now
+making some final changes in jupyter notebook now
