@@ -15,3 +15,5 @@ and the reason you don't
 
 working on the regression plots now
 making some final changes in jupyter notebook now
+
+will update the readme on monday
