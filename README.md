@@ -1,4 +1,4 @@
-# Predicting-Sales-of-Video-Games
+# Predicting-Sales-of-Video-Games.
 ## Analysis and Prediction of Video Games sales using Machine Learning Algorithms !
 
 ### _`Well, Gamers don't die, they Respawmn ;) `_
@@ -64,7 +64,7 @@ _The video game sector is immensely large. In fact, it is larger than the movie 
 - Plotted the prediction.
 - `Prediction plot gave a Normal Distribution curve.`
 - Plotted the Best fit line for the model...
-- Calculated Mean Absolute error and Root Mean Squared Error!
+- Calculated Mean Absolute error and Root Mean Squared Error!!!
 
 
 ## _Random Forest Regressor_
